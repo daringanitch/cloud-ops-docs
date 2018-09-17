@@ -1,0 +1,5 @@
+site_name: Cloud-Ops Doc Repo
+nav:
+    - Home: index.md
+    - About: about.md
+    - README: README.md
